@@ -1,0 +1,78 @@
+Question 1 : What is Python and why is it widely used in Data Analytics? Mention any three reasons.
+Ans. 
+Python is a high-level, interpreted programming language known for its simple syntax and readability. 
+It is widely used in Data Analytics for collecting, cleaning, analyzing, and visualizing data.
+Three reasons why Python is widely used in Data Analytics:
+1. Easy to Learn and Use
+   * Python has a simple and readable syntax, making it beginner-friendly.
+   * Analysts can focus on solving business problems rather than complex programming concepts.
+2. Powerful Data Analysis Libraries
+   * Python provides libraries such as:
+     * Pandas for data manipulation
+     * NumPy for numerical computations
+     * Matplotlib and Seaborn for data visualization
+   * These libraries make data analysis faster and more efficient.
+3. Supports Machine Learning and Automation
+   * Python integrates well with machine learning libraries such as Scikit-learn and TensorFlow.
+   * It can automate repetitive tasks like data cleaning, reporting, and processing large datasets.
+
+Question 2 : Explain the difference between List and Tuple in Python.
+Ans. 
+Difference Between List and Tuple in Python
+
+| Feature               | List                                                  | Tuple                                        |
+| --------------------- | ----------------------------------------------------- | -------------------------------------------- |
+| Syntax                | Uses square brackets `[]`                             | Uses parentheses `()`                        |
+| Mutability            | Mutable (can be changed)                              | Immutable (cannot be changed after creation) |
+| Performance           | Slightly slower                                       | Slightly faster                              |
+| Memory Usage          | Uses more memory                                      | Uses less memory                             |
+| Methods Available     | Many methods (`append()`, `remove()`, `sort()`, etc.) | Fewer methods (`count()`, `index()`)         |
+| Use Case              | When data needs to be modified                        | When data should remain constant             |
+
+Question 3 : What is a function in Python? Why are functions useful?
+Ans
+A function in Python is a named block of reusable code designed to perform a specific task. Functions are useful because they improve code reusability,
+readability, organization, and maintenance while reducing duplication.
+Functions are useful for 
+1. Code Reusability
+  Write code once and use it multiple times.
+  Reduces duplication.
+2. Better Organization
+  Breaks large programs into smaller, logical sections.
+  Makes code easier to understand.
+3. Easier Maintenance
+  Changes need to be made in only one place.
+  Simplifies debugging and updates.
+4. Improves Readability
+  Meaningful function names make code self-explanatory.
+5. Supports Modularity
+  Different functions can handle different tasks, making programs more structured.
+
+Question 4 : Write a Python program to take a user's name as input and print a greeting message.
+Ans. 
+Code attached in the file. 
+
+Question 5 : Write a Python program to check whether a number is even or odd using conditional statements.
+Ans. 
+Code attached in the file. 
+
+Question 6 : Write a program to print numbers from 1 to 10 using a loop.
+Ans. 
+Code attached in the file. 
+
+Question 7 : Create a list of five numbers and print the maximum number from the list.
+Ans. 
+Code attached in the file.
+
+Question 8 : Write a Python program to remove duplicate values from a list using a set.
+Ans. 
+Code attached in the file 
+
+Question 9 : Write a function that returns the square of a number.
+Ans. 
+Code attached in the file
+
+Question 10 : Write a Python program to count how many times a number appears in a list.
+Example List [2,3,4,2,5,2]
+Ans. 
+Code attached in the file. 
